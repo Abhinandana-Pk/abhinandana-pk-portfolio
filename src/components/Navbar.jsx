@@ -17,16 +17,16 @@ const Navbar = () => {
         {/* <img className="mx-2 w-16" src={logo} alt="logo" /> */}
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <a href="https://www.linkedin.com/in/alwin-anto-276b58297/">
+        <a href="https://www.linkedin.com/in/abhinandana-pk-8a1b63242/">
           <FaLinkedin />
         </a>
-        <a href="https://github.com/AlwinAnto41">
+        <a href="https://github.com/Abhinandana-Pk">
           <FaGithub />
         </a>
-        <a href="https://x.com/ALWINANTO101">
+        {/* <a href="https://x.com/ALWINANTO101">
           <FaSquareXTwitter />
-        </a>
-        <a href="https://www.instagram.com/alwin._.anto/">
+        </a> */}
+        <a href="https://www.instagram.com/jwa_la/?igsh=YXhzN2ZqY2FqeTFq">
           <FaInstagram />
         </a>
       </div>
